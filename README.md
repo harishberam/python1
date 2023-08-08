@@ -27,7 +27,9 @@ Follow these steps to use the program:
 ## clone the Repositary
 
 '''bash
-   git clone https://github.com/harishberam/python1.git
+   git clone https://github.com/harishberam/python1.git.
+
+   In this program i will use git bash to execute the program with the help of git clone command in local machine.
 
 
 ## Contributing
