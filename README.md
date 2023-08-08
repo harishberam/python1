@@ -1,14 +1,7 @@
-# Even Numbers Checker
+# Even Numbers Checker in a given list
 
 This is a simple program that checks whether a given number is even or not. It's a basic example to demonstrate the use of Git and version control.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -27,18 +20,20 @@ To get started with this project:
 Follow these steps to use the program:
 
 1. Run the program using your preferred programming environment.
-2. Enter a number.
-3. The program will tell you whether the number is even or not.
+2. Enter a  given list of numbers.
+3. The program will tell you the only even numbers.
 
-Feel free to modify the code and experiment with it as you learn more about programming.
+
+## clone the Repositary
+
+'''bash
+   git clone https://github.com/harishberam/python1.git
+
 
 ## Contributing
 
 Contributions are welcome! If you find issues or have suggestions, please feel free to submit pull requests or open issues in this repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
 ---
 
